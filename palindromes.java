@@ -2,7 +2,7 @@ import java.util.*;
 
 import java.io.*;
 
-class HelloWorld {
+class palindromes {
 
     public static void main(String[] args) {
 
