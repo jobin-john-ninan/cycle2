@@ -2,7 +2,7 @@ import java.util.*;
 
 import java.io.*;
 
-class HelloWorld {
+class replacestring {
 
     public static void main(String[] args) {
 
