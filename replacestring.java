@@ -4,7 +4,7 @@ import java.io.*;
 
 class replacestring {
 
-    public static void main(String[] args) {
+    public static void main(String args[]) {
 
         Scanner obj = new Scanner (System.in);
 
