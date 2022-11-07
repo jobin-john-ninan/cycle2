@@ -2,7 +2,7 @@ import java.util.*;
 
 import java.io.*;
 
-class frequencys {
+class frequencystr {
 
     public static void main(String[] args) {
 
